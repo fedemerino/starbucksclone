@@ -1,0 +1,54 @@
+.menuContainer {
+    margin: 3rem 10vw 3rem 10vw;
+}
+
+.menuTop {
+    p {
+        max-width: 35rem;
+        margin: 0;
+        padding: 0;
+    }
+
+    margin-bottom: 3rem;
+}
+
+
+.enjoy {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 1.75rem;
+    max-width: 45rem;
+}
+
+.drinkTitle {
+    padding-top: 1rem;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+
+    p {
+        color: black;
+        font-size: 1.2rem;
+        font-weight: 600;
+        letter-spacing: -0.16px;
+        line-height: 1.75rem;
+    }
+}
+
+.drinkContainer {
+    width: 20rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.drinkCircle {
+    border-radius: 100%;
+    background-color: #1e3932;
+    img{
+        max-width: fit-content;
+    }
+}
