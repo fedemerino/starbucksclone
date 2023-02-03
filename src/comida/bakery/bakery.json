@@ -1,0 +1,179 @@
+[
+    [
+        {
+            "name": "Croissant Relleno con Crema de Avellanas",
+            "img": "/src/comida/bakery/croissantrellenocremadeavellanas.png",
+            "id":"croissant-relleno-con-crema-de-avellanas"
+        },
+        {
+            "name": "Croissant",
+            "img": "/src/comida/bakery/croissant.png",
+            "id":"croissant"
+        },
+        {
+            "name": "Chocolate Croissant",
+            "img": "/src/comida/bakery/chocolatecroissant.png",
+            "id":"chocolate-croissant"
+        },
+        {
+            "name": "Mezzaluna",
+            "img": "/src/comida/bakery/mezzaluna.png",
+            "id":"mezzaluna"
+        },
+        {
+            "name": "Mezzaluna rellena con jamón y queso",
+            "img": "/src/comida/bakery/mezzalunajyq.png",
+            "id":"mezzaluna-rellena-con-jamon-y-queso"
+        }
+    ],
+    [
+        {
+            "name": "Trenzado de Ricota y Cítricos",
+            "img": "/src/comida/bakery/trenzadoricota.png",
+            "id": "trenzado-de-ricota-y-citricos"
+        },
+        {
+            "name": "Croissant Relleno con Crema de Avellanas",
+            "img": "/src/comida/bakery/croissantrellenocremadeavellanas.png",
+            "id": "croissant-relleno-con-crema-de-avellanas"
+        },
+        {
+            "name": "Croissant",
+            "img": "/src/comida/bakery/croissant.png",
+            "id": "croissant"
+        },
+        {
+            "name": "Mezzaluna rellena con jamón y queso",
+            "img": "/src/comida/bakery/mezzalunajyq.png",
+            "id": "mezzaluna-rellena-con-jamon-y-queso"
+        },
+        {
+            "name": "Double Choco Brownie",
+            "img": "/src/comida/bakery/doublechocobrownie.png",
+            "id": "double-choco-brownie"
+        },
+        {
+            "name": "Roll de manzana",
+            "img": "/src/comida/bakery/rolldemanzana.png",
+            "id": "roll-de-manzana"
+        },
+        {
+            "name": "Roll de canela",
+            "img": "/src/comida/bakery/rolldecanela.png",
+            "id": "roll-de-canela"
+        },
+        {
+            "name": "Donut rellena de Dulce de leche",
+            "img": "/src/comida/bakery/donut.png",
+            "id": "donut-rellena-de-dulce-de-leche"
+        },
+        {
+            "name": "Chocolate Croissant",
+            "img": "/src/comida/bakery/chocolatecroissant.png",
+            "id": "chocolate-croissant"
+        },
+        {
+            "name": "Mezzaluna",
+            "img": "/src/comida/bakery/mezzaluna.png",
+            "id": "mezzaluna"
+        }
+    ],
+    [
+        {
+            "name": "Cheese Avocado Scon",
+            "img": "/src/comida/bakery/cheeseavocadoscon.png",
+            "id":"cheese-avocado-scon"
+        },
+        {
+            "name": "Bagel Avocado Toast",
+            "img": "/src/comida/bakery/bagelavocadotoast.png",
+            "id":"bagel-avocado-toast"
+        },
+        {
+            "name": "Avocado Toast",
+            "img": "/src/comida/bakery/avocadotoast.png",
+            "id":"avocado-toast"
+        },
+        {
+            "name": "Tostada Artesanal",
+            "img": "/src/comida/bakery/tostadaartesanal.png",
+            "id":"tostada-artesanal"
+        },
+        {
+            "name": "Scon 4 quesos",
+            "img": "/src/comida/bakery/scon4q.png",
+            "id":"scon-4-quesos"
+        },
+        {
+            "name": "Bagel Multicereal",
+            "img": "/src/comida/bakery/bagelmulticereal.png",
+            "id":"bagel-multicereal"
+        },
+        {
+            "name": "Pan de Queso",
+            "img": "/src/comida/bakery/pandequeso.png",
+            "id":"pan-de-queso"
+        }
+    ],
+    [
+        {
+            "name": "Muffin de Arándanos",
+            "img": "/src/comida/bakery/muffinarandano.png",
+            "id":"muffin-de-arandanos"
+        },
+        {
+            "name": "Muffin de dulce de leche",
+            "img": "/src/comida/bakery/muffinddl.png",
+            "id":"muffin-de-dulce-de-leche"
+        },
+        {
+            "name": "Muffin de Chocolate",
+            "img": "/src/comida/bakery/muffinchocolate.png",
+            "id":"muffin-de-chocolate"
+        },
+        {
+            "name": "Muffin Choco Chips",
+            "img": "/src/comida/bakery/muffinchocochip.png",
+            "id":"muffin-choco-chips"
+        }
+    ],
+    [
+        {
+            "name": "Banana Loaf Cake",
+            "img": "/src/comida/bakery/bananloafcake.png",
+            "id":"banana-loaf-cake"
+        },
+        {
+            "name": "Marble Loaf Cake",
+            "img": "/src/comida/bakery/marbleloafcake.png",
+            "id":"marble-loaf-cake"
+        },
+        {
+            "name": "Lemon Pound Cake",
+            "img": "/src/comida/bakery/lemonpoundcake.png",
+            "id":"lemon-pound-cake"
+        }
+    ],
+    [
+        {
+            "name": "Cheesecake Frutos Rojos",
+            "img": "/src/comida/bakery/cheesecakefrutosrojos.png",
+            "id":"cheesecake-frutos-rojos"
+        },
+        {
+            "name": "Cookies Cake",
+            "img": "/src/comida/bakery/cookiescake.png",
+            "id":"cookies-cake"
+        },
+        {
+            "name": "Key Lime Pie",
+            "img": "/src/comida/bakery/keylimepie.png",
+            "id":"key-lime-pie"
+        },
+        {
+            "name": "Apple Crumble",
+            "img": "/src/comida/bakery/applecrumble.png",
+            "id":"apple-crumble"
+        }
+    ]
+]

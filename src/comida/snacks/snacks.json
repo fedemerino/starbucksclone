@@ -1,0 +1,48 @@
+[
+    [
+        {
+            "name": "Porridge Avena Chocolate y Maní",
+            "img": "/src/comida/snacks/porridge.png",
+            "id":"porridge-avena-chocolate-y-mani"
+        },
+        {
+            "name": "Mix de Frutos Secos",
+            "img": "/src/comida/snacks/mixfrutossecos.png",
+            "id":"mix-de-frutos-secos"
+        },
+        {
+            "name": "Barra de Cereal Almendras",
+            "img": "/src/comida/snacks/barracerealalmendras.png",
+            "id":"barra-de-cereal-almendras"
+        }
+    ],
+    [
+        {
+            "name": "Moneda de Chocolate",
+            "img": "/src/comida/snacks/monedadechoco.png",
+            "id":"moneda-de-chocolate"
+        }
+    ],
+    [
+        {
+            "name": "Biscotti con Castañas",
+            "img": "/src/comida/snacks/biscotti.png",
+            "id":"biscotti-con-castanas"
+        },
+        {
+            "name": "Cookie Super Chocolate",
+            "img": "/src/comida/snacks/cookiesuperchocolate.png",
+            "id":"cookie-super-chocolate"
+        },
+        {
+            "name": "Cookie Chips y Pecan",
+            "img": "/src/comida/snacks/cookiechipsypecan.png",
+            "id":"cookie-chips-y-pecan"
+        },
+        {
+            "name": "Cookie Limón y Jengibre",
+            "img": "/src/comida/snacks/cookielimon.png",
+            "id":"cookie-limon-y-jengibre"
+        }
+    ]
+]

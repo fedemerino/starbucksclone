@@ -1,0 +1,56 @@
+[
+    [
+        {
+            "name": "Mango Dragonfruit Limonada",
+            "img": "/src/bebidas/heladas/mangodragonfruitlimonada.png",
+            "id": "mango-dragonfruit-limonada"
+        },
+        {
+            "name": "Frutilla Açai",
+            "img": "/src/bebidas/heladas/frutilla.png",
+            "id": "frutilla-acai"
+        },
+        {
+            "name": "Dragon Drink",
+            "img": "/src/bebidas/heladas/dragondrink.png",
+            "id": "dragon-drink"
+        },
+        {
+            "name": "Pink Drink",
+            "img": "/src/bebidas/heladas/pinkdrink.png",
+            "id": "pink-drink"
+        },
+        {
+            "name": "Mango Dragonfruit Frozen Refresher",
+            "img": "/src/bebidas/heladas/mangodragonfruitfrozen.png",
+            "id": "mango-dragonfruit-frozen-refresher"
+        },
+        {
+            "name": "Frutilla Acaí Frozen Refresher",
+            "img": "/src/bebidas/heladas/frutillafrozen.png",
+            "id": "frutilla-acai-frozen-refresher"
+        },
+        {
+            "name": "Mango Dragonfruit",
+            "img": "/src/bebidas/heladas/mangodragonfruit.png",
+            "id": "mango-dragonfruit"
+        },
+        {
+            "name": "Frutilla Açai Limonada",
+            "img": "/src/bebidas/heladas/frutillalimonada.png",
+            "id": "frutilla-acai-limonada"
+        }
+    ],
+    [
+        {
+            "name": "Jugo de manzana",
+            "img": "/src/bebidas/heladas/jugodemanzana.png",
+            "id": "jugo-de-manzana"
+        },
+        {
+            "name": "Jugo de naranja",
+            "img": "/src/bebidas/heladas/jugodenaranja.png",
+            "id": "jugo-de-naranja"
+        }
+    ]
+]

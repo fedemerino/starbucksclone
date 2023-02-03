@@ -4,17 +4,29 @@ const Home = () => {
   return (
     <div className='homeContainer'>
       <HomeSection
-        w={"92vw"}
-        h={"45vh"}
+        w={"87.5rem"}
+        h={"25.5rem"}
         bg={"#d4e9e2"}
         imgPos={'left'}
-        img={'./momentostarbucks.jpg'}
-        alt={'momentostarbucks'}
+        img={'./pistacho.png'}
+        alt={'pistacho'}
         className={'sectionImg'}
+        content={true}
+        contentTitle={"¡Hay pistacho para todos!"}
+        contentText={"Conocé todas las novedades del verano"}
+        contentButton={"Más información"}
+        styles={{
+          'color': '#00754a',
+          'fontSize': '3.125rem',
+          'fontWeight': '600',
+          'maxWidth': '30rem',
+          'textAlign': 'center'
+        }}
+
       />
-      <HomeSection
-        w={"92vw"}
-        h={"55vh"}
+      {/* <HomeSection
+        w={"87.5rem"}
+        h={"32.rem"}
         bg={"#D4E9E254"}
         imgPos={'right'}
         img={'./vivicadamomento.jpg'}
@@ -26,7 +38,7 @@ const Home = () => {
         styles={{
           'color' : '#006241'
         }}
-      />
+      /> */}
     </div>
   )
 }

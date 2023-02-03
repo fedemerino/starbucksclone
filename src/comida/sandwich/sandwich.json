@@ -1,0 +1,47 @@
+[[
+    {
+        "name": "Sándwich con Jamón y Queso en Pan Artesanal",
+        "img": "/src/comida/sandwich/sandwichjyq.png",
+        "id":"sandwich-con-jamon-y-queso-en-pan-artesanal"
+    },
+    {
+        "name": "Focaccia Caprese",
+        "img": "/src/comida/sandwich/focacciacaprese.png",
+        "id":"focaccia-caprese"
+    },
+    {
+        "name": "Sandwich Pollo Multicereal",
+        "img": "/src/comida/sandwich/sandwichpollomulticereal.png",
+        "id":"sandwich-pollo-multicereal"
+    },
+    {
+        "name": "Bagel Sandwich",
+        "img": "/src/comida/sandwich/bagelsandwich.png",
+        "id":"bagel-sandwich"
+    },
+    {
+        "name": "Sandwich Tres Quesos",
+        "img": "/src/comida/sandwich/sandwich3q.png",
+        "id":"sandwich-tres-quesos"
+    },
+    {
+        "name": "Croque Monsieur",
+        "img": "/src/comida/sandwich/croquemonsieur.png",
+        "id":"croque-monsieur"
+    },
+    {
+        "name": "Tostado de jamón y queso",
+        "img": "/src/comida/sandwich/tostadojyq.png",
+        "id":"tostado-de-jamon-y-queso"
+    },
+    {
+        "name": "Tarta de Puerro",
+        "img": "/src/comida/sandwich/tartadepuerro.png",
+        "id":"tarta-de-puerro"
+    },
+    {
+        "name": "Tarta de Calabaza",
+        "img": "/src/comida/sandwich/tartadecalabaza.png",
+        "id":"tarta-de-calabaza"
+    }
+]]

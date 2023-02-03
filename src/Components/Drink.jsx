@@ -1,12 +1,25 @@
 import React from 'react'
-
-const Drink = ({ name, img }) => {
+import { Link } from 'react-router-dom'
+const Drink = ({ name, img, link, id}) => {
+    let address = `/${link}/${id}`
     return (
+
         <div className='col col-lg-4 drinkContainer'>
-            <div className='drinkCircle'>
-                <img src={img} alt={name} />
+            <Link to={address}>
+                <div className='drinkCircle'>
+                    <img src={img} alt={name} />
+                </div>
+            </Link>
+            <div className='drinkName'>
+                <p style={{
+                    fontWeight: '600',
+                    fontSize: '1.2rem'
+                }}
+                >
+                    {name}</p>
             </div>
         </div>
+
     )
 }
 

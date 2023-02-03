@@ -33,7 +33,7 @@ const Footer = () => {
           <div>&nbsp;</div>
           <div className='dataFiscal'>
             <a href="http://qr.afip.gob.ar/?qr=mXre0uzPRZp2FyKAW3LfRQ,," target={'_blank'}>
-              <img src="datafiscal.jpg" alt="" />
+              <img src="../../datafiscal.jpg" alt="" />
             </a>
           </div>
         </div>
@@ -41,13 +41,13 @@ const Footer = () => {
       <div className="socialMediaContainer">
         <div className="media">
           <a href="https://www.facebook.com/StarbucksArgentina" target={"_blank"}>
-            <img src="facebook.png" alt="facebook" />
+            <img src="../../facebook.png" alt="facebook" />
           </a>
           <a href="https://www.instagram.com/starbucksargentina/" target={"_blank"}>
-            <img src="instagram.png" alt="instagram" />
+            <img src="../../instagram.png" alt="instagram" />
           </a>
           <a href="https://www.linkedin.com/company/starbucks-coffee-argentina/" target={"_blank"}>
-            <img src="linkedin.png" alt="linkedin" />
+            <img src="../../linkedin.png" alt="linkedin" />
           </a>
         </div>
       </div>

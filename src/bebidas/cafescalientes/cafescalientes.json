@@ -1,0 +1,86 @@
+[
+    [
+        {
+            "name": "Skinny Vainilla Late",
+            "img": "/src/bebidas/cafescalientes/skinny.png",
+            "id": "skinny-vainilla-late"
+        },
+        {
+            "name": "Vainilla Latte",
+            "img": "/src/bebidas/cafescalientes/skinny.png",
+            "id": "vainilla-latte"
+        },
+        {
+            "name": "Latte",
+            "img": "/src/bebidas/cafescalientes/latte.png",
+            "id": "latte"
+        },
+        {
+            "name": "Dulce de leche Latte",
+            "img": "/src/bebidas/cafescalientes/dulce.png",
+            "id": "dulce-de-leche-latte"
+        }
+    ],
+    [
+        {
+            "name": "Cappuccino",
+            "img": "/src/bebidas/cafescalientes/cappuccino.png",
+            "id": "cappuccino"
+        }
+    ],
+    [
+        {
+            "name": "Flat White",
+            "img": "/src/bebidas/cafescalientes/flatwhite.png",
+            "id": "flat-white"
+        }
+    ],
+    [
+        {
+            "name": "Americano",
+            "img": "/src/bebidas/cafescalientes/americano.png",
+            "id": "americano"
+        }
+    ],
+    [
+        {
+            "name": "Latte Macchiato",
+            "img": "/src/bebidas/cafescalientes/lattemacchiato.png",
+            "id": "latte-macchiato"
+        },
+        {
+            "name": "Skinny Caramel Macchiato",
+            "img": "/src/bebidas/cafescalientes/skinnycaramel.png",
+            "id": "skinny-caramel-macchiato"
+        },
+        {
+            "name": "Caramel Macchiato",
+            "img": "/src/bebidas/cafescalientes/skinnycaramel.png",
+            "id": "caramel-macchiato"
+        }
+    ],
+    [
+        {
+            "name": "Mocha Blanco",
+            "img": "/src/bebidas/cafescalientes/mochablanco.png",
+            "id": "mocha-blanco"
+        },
+        {
+            "name": "Mocha",
+            "img": "/src/bebidas/cafescalientes/mocha.png",
+            "id": "mocha"
+        }
+    ],
+    [
+        {
+            "name": "Café del día con leche",
+            "img": "/src/bebidas/cafescalientes/cafedeldiaconleche.png",
+            "id": "cafe-del-dia-con-leche"
+        },
+        {
+            "name": "Café del día",
+            "img": "/src/bebidas/cafescalientes/cafedeldia.png",
+            "id": "cafe-del-dia"
+        }
+    ]
+]

@@ -1,0 +1,16 @@
+[
+    [
+        {
+            "name": "Shaken Lemonade Hibiscus",
+            "img": "/src/bebidas/tehelado/shakenlemonade.png",
+            "id":"shaken-lemonade-hibiscus"
+        }
+    ],
+    [
+        {
+            "name": "Shaken Lemonade Green Tea",
+            "img": "/src/bebidas/tehelado/shakenlemonadegreentea.png",
+            "id":"shaken-lemonade-green-tea"
+        }
+    ]
+]

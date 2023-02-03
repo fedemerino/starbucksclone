@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "name": "Café Frappuccino®",
+            "img": "/src/bebidas/frappuccino/cafefrappuccino.png",
+            "id":"cafe-frappuccinor"
+        },
+        {
+            "name": "Caramel Frappuccino®",
+            "img": "/src/bebidas/frappuccino/caramelfrappuccino.png",
+            "id":"caramel-frappuccinor"
+        },
+        {
+            "name": "Mocha Blanco Frappuccino®",
+            "img": "/src/bebidas/frappuccino/mochablancofrappuccino.png",
+            "id":"mocha-blanco-frappuccinor"
+        },
+        {
+            "name": "Mocha Frappuccino®",
+            "img": "/src/bebidas/frappuccino/mochafrappuccino.png",
+            "id":"mocha-frapuccinor"
+        }
+    ],
+    [
+        {
+            "name": "Chai Frappuccino®",
+            "img": "/src/bebidas/frappuccino/chaifrappuccino.png",
+            "id":"chai-frappuccinor"
+        }, {
+            "name": "Mocha Creme Frappuccino®",
+            "img": "/src/bebidas/frappuccino/mochacremefrappuccino.png",
+            "id":"mocha-creme-frappuccinor"
+        }
+    ]
+]

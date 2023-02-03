@@ -1,0 +1,45 @@
+[
+    [
+        {
+            "name": "Mint Citrus",
+            "img": "/src/bebidas/tecaliente/mintcitrus.png",
+            "id": "mint-citrus"
+        }
+    ],
+    [
+        {
+            "name": "Chai",
+            "img": "/src/bebidas/tecaliente/chai.png",
+            "id": "chai"
+        },
+        {
+            "name": "Chai Latte",
+            "img": "/src/bebidas/tecaliente/chailatte.png",
+            "id": "chai-latte"
+        }
+    ],
+    [
+        {
+            "name": "Youthberry",
+            "img": "/src/bebidas/tecaliente/youthberry.png",
+            "id": "youthberry"
+        },
+        {
+            "name": "Hibiscus",
+            "img": "/src/bebidas/tecaliente/hibiscus.png",
+            "id": "hibiscus"
+        }
+    ],
+    [
+        {
+            "name": "Earl Grey",
+            "img": "/src/bebidas/tecaliente/earlgrey.png",
+            "id": ""
+        },
+        {
+            "name": "English Breakfast",
+            "img": "/src/bebidas/tecaliente/englishbreakfast.png",
+            "id": ""
+        }
+    ]
+]

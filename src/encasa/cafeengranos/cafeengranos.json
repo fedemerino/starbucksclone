@@ -1,0 +1,43 @@
+[
+    [
+        {
+            "name": "Nicaragua Single Origin",
+            "img": "/src/encasa/cafeengranos/nicaragua.png",
+            "id":"nicaragua-single-origin"
+        }
+    ],
+    [
+        {
+            "name": "Guatemala Casi Cielo",
+            "img": "/src/encasa/cafeengranos/guatemala.png",
+            "id":"guatemala-casi-cielo"
+        },
+        {
+            "name": "Café Colombia",
+            "img": "/src/encasa/cafeengranos/colombia.png",
+            "id":"cafe-colombia"
+        },
+        {
+            "name": "Café Pike Place",
+            "img": "/src/encasa/cafeengranos/pikeplace.png",
+            "id":"cafe-pike-place"
+        }
+    ],
+    [
+        {
+            "name": "Café Sumatra",
+            "img": "/src/encasa/cafeengranos/sumatra.png",
+            "id":"cafe-sumatra"
+        },
+        {
+            "name": "Café Verona",
+            "img": "/src/encasa/cafeengranos/verona.png",
+            "id":"cafe-verona"
+        },
+        {
+            "name": "Café Espresso Roast",
+            "img": "/src/encasa/cafeengranos/espressoroast.png",
+            "id":"cafe-espresso-roast"
+        }
+    ]
+]

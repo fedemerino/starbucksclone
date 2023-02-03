@@ -1,10 +1,10 @@
 import React from 'react'
-import bebidas from '../assets/bebidas/bebidas.json'
+
 import Drink from './Drink'
-const Drinks = () => {
+const Drinks = ({food,link}) => {
   return (
-    bebidas.map((bebida) => {
-        return <Drink key={bebida.name} {...bebida}/>
+    food.map((eachFood) => {
+        return <Drink key={eachFood.name} {...eachFood} link={link}/>
     })
   )
 }

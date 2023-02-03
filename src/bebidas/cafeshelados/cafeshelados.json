@@ -1,0 +1,101 @@
+[
+    [
+        {
+            "name": "Avellana Shaken Espresso con Avena Helado",
+            "img": "/src/bebidas/cafeshelados/avellanashaken.png",
+            "id":"avellana-shaken-espresso-con-avena-helado"
+        },
+        {
+            "name": "Chocolate Shaken Espresso con Avena Helado",
+            "img": "/src/bebidas/cafeshelados/chocolateshaken.png",
+            "id":"chocolate-shaken-espresso-con-avena-helado"
+        }
+    ],
+    [
+        {
+            "name": "Skinny Caramel Macchiato Helado",
+            "img": "/src/bebidas/cafeshelados/caramel.png",
+            "id":"skinny-caramel-macchiato-helado"
+        },
+        {
+            "name": "Caramel Macchiato Helado",
+            "img": "/src/bebidas/cafeshelados/caramel.png",
+            "id":"caramel-macchiato-helado"
+        }
+    ],
+    [
+        {
+            "name": "Capuccinno Helado",
+            "img": "/src/bebidas/cafeshelados/cappuccinohelado.png",
+            "id":"cappuccino-helado"
+        }
+    ],
+    [
+        {
+            "name": "Skinny Vainilla Latte Helado",
+            "img": "/src/bebidas/cafeshelados/skinnyvainillahelado.png",
+            "id":"skinny-vainilla-latte-helado"
+        },
+        {
+            "name": "Latte Helado",
+            "img": "/src/bebidas/cafeshelados/lattehelado.png",
+            "id":"latte-helado"
+        },
+        {
+            "name": "Vainilla Latte Helado",
+            "img": "/src/bebidas/cafeshelados/vainillahelado.png",
+            "id":"vainilla-latte-helado"
+        },
+        {
+            "name": "Dulce de leche Latte Helado",
+            "img": "/src/bebidas/cafeshelados/ddlhelado.png",
+            "id":"dulce-de-leche-latte-helado"
+        }
+    ],
+    [
+        {
+            "name": "Cold Brew Cold Foam",
+            "img": "/src/bebidas/cafeshelados/coldbrewfoam.png",
+            "id":"cold-brew-cold-foam"
+        }, {
+            "name": "Sweet Vainilla Cold Brew",
+            "img": "/src/bebidas/cafeshelados/sweetvainilla.png",
+            "id":"sweet-vainilla-cold-brew"
+        }, {
+            "name": "Cold Brew",
+            "img": "/src/bebidas/cafeshelados/coldbrew.png",
+            "id":"cold-brew"
+        }
+    ],
+    [
+        {
+            "name": "Americano Helado",
+            "img": "/src/bebidas/cafeshelados/americanohelado.png",
+            "id":"americano-helado"
+        }
+    ],
+    [
+        {
+            "name": "Mocha Blanco Helado",
+            "img": "/src/bebidas/cafeshelados/mochablancohelado.png",
+            "id":"mocha-blanco-helado"
+        },
+        {
+            "name": "Mocha Helado",
+            "img": "/src/bebidas/cafeshelados/mochahelado.png",
+            "id":"mocha-helado"
+        }
+    ],
+    [
+        {
+            "name": "Café del día con Leche Helado",
+            "img": "/src/bebidas/cafeshelados/cafedeldiaconlechehelado.png",
+            "id":"cafe-del-dia-con-leche-helado"
+        },
+        {
+            "name": "Café del día Helado",
+            "img": "/src/bebidas/cafeshelados/cafedeldiahelado.png",
+            "id":"cafe-del-dia-helado"
+        }
+    ]
+]

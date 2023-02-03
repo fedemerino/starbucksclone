@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Cafés calientes",
+        "img":"/src/bebidas/cafescalientes.png",
+        "id":"cafes-calientes"
+    },
+    {
+        "name":"Cafés helados",
+        "img":"/src/bebidas/cafeshelados.png",
+        "id":"cafes-helados"
+    },
+    {
+        "name":"Frappuccino®",
+        "img":"/src/bebidas/frapuccino.png",
+        "id":"frappuccino"
+    },
+    {
+        "name":"Té caliente",
+        "img":"/src/bebidas/tecaliente.png",
+        "id":"te-caliente"
+    },
+    {
+        "name":"Té helado",
+        "img":"/src/bebidas/tehelado.png",
+        "id":"te-helado"
+    },
+    {
+        "name":"Heladas",
+        "img":"/src/bebidas/heladas.png",
+        "id":"frias"
+    },
+    {
+        "name":"Calientes",
+        "img":"/src/bebidas/calientes.png",
+        "id":"calientes"
+    }
+]
