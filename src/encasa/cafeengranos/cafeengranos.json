@@ -3,41 +3,48 @@
         {
             "name": "Nicaragua Single Origin",
             "img": "/src/encasa/cafeengranos/nicaragua.png",
-            "id":"nicaragua-single-origin"
+            "id":"nicaragua-single-origin",
+            "detail":"Café de tostado suave con notas dulces de melón, la frescura del limón y frutos secos."
         }
     ],
     [
         {
             "name": "Guatemala Casi Cielo",
             "img": "/src/encasa/cafeengranos/guatemala.png",
-            "id":"guatemala-casi-cielo"
+            "id":"guatemala-casi-cielo",
+            "detail":"Este café de origen es una celebración de toda la magia de los fértiles valles de Antigua en Guatemala. De tostado y cuerpo medio, tiene un brillo seductor similar al del limón y notas de chocolate suave."
         },
         {
             "name": "Café Colombia",
             "img": "/src/encasa/cafeengranos/colombia.png",
-            "id":"cafe-colombia"
+            "id":"cafe-colombia",
+            "detail":"Café de origen, su tostado y cuerpo es medio con sutiles sabores a frutos secos y hierbas frescas. Acompañá tu café con un complemento de chocolate o caramelo."
         },
         {
             "name": "Café Pike Place",
             "img": "/src/encasa/cafeengranos/pikeplace.png",
-            "id":"cafe-pike-place"
+            "id":"cafe-pike-place",
+            "detail":"Este café conmemora nuestra primera tienda en el Pike Place Market de Seattle. Un café que es nuestra identidad: una mezcla suave y equilibrada de granos de Latinoamérica con sabores sutilmente intensos a cacao y a frutos secos tostados. Disfrutalo con un Chocolate Croissant o con un Muffin de Choco Chips. Contenido: 250gr."
         }
     ],
     [
         {
             "name": "Café Sumatra",
             "img": "/src/encasa/cafeengranos/sumatra.png",
-            "id":"cafe-sumatra"
+            "id":"cafe-sumatra",
+            "detail":"Café de origen con tostado oscuro, cuerpo completo y consistente. Su sabor predominante es terroso y herbal. Acompañá tu café con un complemento de canela, avena o queso. Probalo con nuestro Scon de 4 quesos!"
         },
         {
             "name": "Café Verona",
             "img": "/src/encasa/cafeengranos/verona.png",
-            "id":"cafe-verona"
+            "id":"cafe-verona",
+            "detail":"Blend de granos de Latinoamérica e Indonesia. Es un café de tostado oscuro con sabores a cacao negro y dulce. Acompañá tu café con un complemento de chocolate, nueces, caramelo o especias. Contenido: 250 g"
         },
         {
             "name": "Café Espresso Roast",
             "img": "/src/encasa/cafeengranos/espressoroast.png",
-            "id":"cafe-espresso-roast"
+            "id":"cafe-espresso-roast",
+            "detail":"Blend de granos de Latinoamérica con un tostado oscuro. Es el corazón de todas nuestras bebidas que podes tener en tu casa. Su sabor es intenso, dulce y acaramelado, ideal para acompañarlo con un complemento de chocolate, nueves, caramelo o especias."
         }
     ]
 ]

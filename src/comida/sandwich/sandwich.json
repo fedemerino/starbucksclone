@@ -2,46 +2,55 @@
     {
         "name": "Sándwich con Jamón y Queso en Pan Artesanal",
         "img": "/src/comida/sandwich/sandwichjyq.png",
-        "id":"sandwich-con-jamon-y-queso-en-pan-artesanal"
+        "id":"sandwich-con-jamon-y-queso-en-pan-artesanal",
+        "detail":"Con un suave y aireado pan artesanal relleno de jamón y queso, este sándwich es una deliciosa opción gluten free."
     },
     {
         "name": "Focaccia Caprese",
         "img": "/src/comida/sandwich/focacciacaprese.png",
-        "id":"focaccia-caprese"
+        "id":"focaccia-caprese",
+        "detail":"Pan de focaccia espolvoreado con queso, relleno de tomate, queso y una deliciosa crema de pesto."
     },
     {
         "name": "Sandwich Pollo Multicereal",
         "img": "/src/comida/sandwich/sandwichpollomulticereal.png",
-        "id":"sandwich-pollo-multicereal"
+        "id":"sandwich-pollo-multicereal",
+        "detail":"Ciabatta de pan multicereal rellena de pollo, queso, tomate y mayonesa."
     },
     {
         "name": "Bagel Sandwich",
         "img": "/src/comida/sandwich/bagelsandwich.png",
-        "id":"bagel-sandwich"
+        "id":"bagel-sandwich",
+        "detail":"Exquisito bagel multicereal combinado con queso cheddar, panceta y huevo."
     },
     {
         "name": "Sandwich Tres Quesos",
         "img": "/src/comida/sandwich/sandwich3q.png",
-        "id":"sandwich-tres-quesos"
+        "id":"sandwich-tres-quesos",
+        "detail":"Sandwich de pan artesanal relleno con queso muzzarella, parmesano y cheddar."
     },
     {
         "name": "Croque Monsieur",
         "img": "/src/comida/sandwich/croquemonsieur.png",
-        "id":"croque-monsieur"
+        "id":"croque-monsieur",
+        "detail":"Delicioso sandwich de jamón y queso, combinado con salsa bechamel y queso gratinado."
     },
     {
         "name": "Tostado de jamón y queso",
         "img": "/src/comida/sandwich/tostadojyq.png",
-        "id":"tostado-de-jamon-y-queso"
+        "id":"tostado-de-jamon-y-queso",
+        "detail":"Un clásico triángulo de jamón y queso, en pan de miga blanco con semillas de amapola."
     },
     {
         "name": "Tarta de Puerro",
         "img": "/src/comida/sandwich/tartadepuerro.png",
-        "id":"tarta-de-puerro"
+        "id":"tarta-de-puerro",
+        "detail":"Deliciosa tarta rellena de puerro, cebolla y queso."
     },
     {
         "name": "Tarta de Calabaza",
         "img": "/src/comida/sandwich/tartadecalabaza.png",
-        "id":"tarta-de-calabaza"
+        "id":"tarta-de-calabaza",
+        "detail":"Exquisita tarta con masa integral rellena de calabaza, queso gratinado y semillas."
     }
 ]]

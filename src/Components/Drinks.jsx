@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useContext } from 'react'
 
 import Drink from './Drink'
+
 const Drinks = ({food,link}) => {
   return (
     food.map((eachFood) => {
