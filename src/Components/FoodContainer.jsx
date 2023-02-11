@@ -1,5 +1,5 @@
 import React from 'react'
-import cafescalientes from '/src/src/bebidas/cafescalientes/cafescalientes.json'
+import cafescalientes from '/src/bebidas/cafescalientes/cafescalientes.json'
 import cafeshelados from '/src/bebidas/cafeshelados/cafeshelados.json'
 import calientes from '/src/bebidas/calientes/calientes.json'
 import frappuccino from '/src/bebidas/frappuccino/frappuccino.json'
