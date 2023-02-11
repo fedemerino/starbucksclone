@@ -1,108 +1,132 @@
 .menuContainer {
-    margin: 2rem 18vw 2rem 18vw;
+  margin: 2rem 18vw 2rem 18vw;
 }
 
 .menuTop {
-    p {
-        max-width: 35rem;
-        margin: 0;
-        padding: 0;
-    }
-    a{
-        display: contents;
-        color: rgba(0,0,0,0.58);
-    }
+  p {
+    max-width: 35rem;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    display: contents;
+    color: rgba(0, 0, 0, 0.58);
+  }
 
-    margin-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
-
 .enjoy {
-    font-weight: 600;
-    font-size: 1.2rem;
+  font-weight: 600;
+  font-size: 1.2rem;
 }
 
 .text {
-    font-weight: 700;
-    font-size: 1.75rem;
-    max-width: 45rem;
+  font-weight: 700;
+  font-size: 1.75rem;
+  max-width: 45rem;
 }
 
 .drinkTitle {
-    padding-top: 1rem;
-    border-top: 1px solid #999;
-    border-bottom: 1px solid #999;
-    margin-bottom: 2rem;
-    p {
-        color: black;
-        font-size: 1.2rem;
-        font-weight: 600;
-        letter-spacing: -0.16px;
-        line-height: 1.75rem;
-    }
+  padding-top: 1rem;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  margin-bottom: 2rem;
+  p {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: -0.16px;
+    line-height: 1.75rem;
+  }
 }
 
 .drinkContainer {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .drinkCircle {
-    max-width: 10.5rem;
-    max-height: 10.5rem;
-    display: flex;
-    border-radius: 100%;
-    background-color: #1e3932;
-    margin-bottom: 1rem;
-    justify-content: center;
-    align-items: center;
-    img{
-        max-width: fit-content;
-        transform: scale(.85);
+  max-width: 10.5rem;
+  max-height: 10.5rem;
+  display: flex;
+  border-radius: 100%;
+  background-color: #1e3932;
+  margin-bottom: 1rem;
+  justify-content: center;
+  align-items: center;
+  img {
+    max-width: fit-content;
+    transform: scale(0.85);
+  }
+  &:hover {
+    cursor: pointer;
+    border: 0.5rem solid #d4e9e2;
+  }
+}
+
+.productContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e3932;
+  width: 100%;
+  height: 27vh;
+  img {
+    max-height: 11.25rem;
+    max-width: 11.25rem;
+  }
+}
+
+.productName {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.productDescriptionContainer {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 1.2rem;
+  margin-bottom: 1.875rem;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 1rem;
+  letter-spacing: -0.01rem;
+  font-weight: 400;
+}
+
+.productDescription {
+  max-width: 42rem;
+  text-align: start;
+}
+.menu {
+  
+    a:hover {
+      color: #00754a;
     }
-    &:hover{
-        cursor: pointer;
-        border: .5rem solid #D4E9E2;
+    a.navMenu:hover:before {
+      box-sizing: border-box;
+        bottom: 0px;
+        background: #00754a;
+        content: "MENU";
+        color: transparent;
+        height: 5px;
+        display: block;
+        position: absolute;
     }
-}
-
-.productContainer{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items:center;
-    background-color:#1e3932;
-    width: 100%;
-    height: 27vh;
-    img{
-        max-height: 11.25rem;
-        max-width: 11.25rem;
+    a.navExp:hover:before {
+      box-sizing: border-box;
+        bottom: 0px;
+        background: #00754a;
+        content: "EXPERIENCIA STARBUCKS";
+        color: transparent;
+        height: 5px;
+        display: block;
+        position: absolute;
     }
-}
-
-.productName{
-    font-size: 1.875rem;
-    font-weight: 700;
-    color: rgb(255, 255, 255);
-}
-
-.productDescriptionContainer{
-    display: flex;
-    justify-content: center;
-    
-    margin-top:1.2rem;
-    margin-bottom: 1.875rem;
-    color: rgba(0,0,0,0.87);
-    font-size: 1rem;
-    letter-spacing: -0.01rem;
-    font-weight: 400;
-    
-}
-
-.productDescription{
-    max-width: 42rem;
-    text-align: start;
+  
 }
