@@ -2,25 +2,25 @@
     [
         {
             "name": "Café Frappuccino®",
-            "img": "/src/bebidas/frappuccino/cafefrappuccino.png",
+            "img": "./images/bebidas/frappuccino/cafefrappuccino.png",
             "id":"cafe-frappuccinor",
             "detail":"Frappuccino a base de café. Dulce y cremosa combinación de café, leche y hielo."
         },
         {
             "name": "Caramel Frappuccino®",
-            "img": "/src/bebidas/frappuccino/caramelfrappuccino.png",
+            "img": "./images/bebidas/frappuccino/caramelfrappuccino.png",
             "id":"caramel-frappuccinor",
             "detail":"Frappuccino a base de café. Dulce combinación de caramelo, café, leche y hielo, decorado con un remolino de crema batida y topping de caramelo."
         },
         {
             "name": "Mocha Blanco Frappuccino®",
-            "img": "/src/bebidas/frappuccino/mochablancofrappuccino.png",
+            "img": "./images/bebidas/frappuccino/mochablancofrappuccino.png",
             "id":"mocha-blanco-frappuccinor",
             "detail":"Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate blanco, batido con hielo, coronado con crema batida y salsa de mocha."
         },
         {
             "name": "Mocha Frappuccino®",
-            "img": "/src/bebidas/frappuccino/mochafrappuccino.png",
+            "img": "./images/bebidas/frappuccino/mochafrappuccino.png",
             "id":"mocha-frapuccinor",
             "detail":"Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate, batido con hielo, coronado con crema batida y salsa de mocha."
         }
@@ -28,12 +28,12 @@
     [
         {
             "name": "Chai Frappuccino®",
-            "img": "/src/bebidas/frappuccino/chaifrappuccino.png",
+            "img": "./images/bebidas/frappuccino/chaifrappuccino.png",
             "id":"chai-frappuccinor",
             "detail":"Nuestro Té Chai combinado con leche, hielo molido y una deliciosa terminación de crema batida."
         }, {
             "name": "Mocha Creme Frappuccino®",
-            "img": "/src/bebidas/frappuccino/mochacremefrappuccino.png",
+            "img": "./images/bebidas/frappuccino/mochacremefrappuccino.png",
             "id":"mocha-creme-frappuccinor",
             "detail":"Frappuccino a base de crema. Perfecta combinación a base de crema y chocolate, batida con hielo, decorada con crema batida y salsa de chocolate."
         }

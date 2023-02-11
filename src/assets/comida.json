@@ -1,17 +1,17 @@
 [
     {
         "name": "Bakery",
-        "img": "/src/comida/bakery.png",
+        "img": "./images/comida/bakery.png",
         "id":"bakery"
     },
     {
         "name": "Sándwichs & preparados",
-        "img": "/src/comida/sandwich.png",
+        "img": "./images/comida/sandwich.png",
         "id":"almuerzos"
     },
     {
         "name": "Snacks",
-        "img": "/src/comida/snacks.png",
+        "img": "./images/comida/snacks.png",
         "id":"snacks"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "name": "Café en granos",
-        "img": "/src/encasa/cafeengranos.png",
+        "img": "./images/encasa/cafeengranos.png",
         "id": "cafe-en-granos"
     },
     {
         "name": "Té",
-        "img": "/src/encasa/te.png",
+        "img": "./images/encasa/te.png",
         "id": "te"
     }
 ]
