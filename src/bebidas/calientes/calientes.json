@@ -1,7 +1,7 @@
 [[
     {
         "name": "Chocolate caliente",
-        "img": "./images/bebidas/calientes/chocolatecaliente.png",
+        "img": "/src/bebidas/calientes/chocolatecaliente.png",
         "id":"chocolate-caliente",
         "detail":"Una deliciosa mezcla de chocolate, vainilla y leche, decorada con crema batida y salsa de chocolate."
     }

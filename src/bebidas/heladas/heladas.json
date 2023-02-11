@@ -2,49 +2,49 @@
     [
         {
             "name": "Mango Dragonfruit Limonada",
-            "img": "./images/bebidas/heladas/mangodragonfruitlimonada.png",
+            "img": "/src/bebidas/heladas/mangodragonfruitlimonada.png",
             "id": "mango-dragonfruit-limonada",
             "detail":"Limonada con Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
         },
         {
             "name": "Frutilla Açai",
-            "img": "./images/bebidas/heladas/frutilla.png",
+            "img": "/src/bebidas/heladas/frutilla.png",
             "id": "frutilla-acai",
             "detail":"Frutilla, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
         },
         {
             "name": "Dragon Drink",
-            "img": "./images/bebidas/heladas/dragondrink.png",
+            "img": "/src/bebidas/heladas/dragondrink.png",
             "id": "dragon-drink",
             "detail":"Leche de coco con Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
         },
         {
             "name": "Pink Drink",
-            "img": "./images/bebidas/heladas/pinkdrink.png",
+            "img": "/src/bebidas/heladas/pinkdrink.png",
             "id": "pink-drink",
             "detail":"Frutilla, leche de coco, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
         },
         {
             "name": "Mango Dragonfruit Frozen Refresher",
-            "img": "./images/bebidas/heladas/mangodragonfruitfrozen.png",
+            "img": "/src/bebidas/heladas/mangodragonfruitfrozen.png",
             "id": "mango-dragonfruit-frozen-refresher",
             "detail":"Una combinación refrescante de mando y dragonfruit con extracto de café verde y hielo molido."
         },
         {
             "name": "Frutilla Acaí Frozen Refresher",
-            "img": "./images/bebidas/heladas/frutillafrozen.png",
+            "img": "/src/bebidas/heladas/frutillafrozen.png",
             "id": "frutilla-acai-frozen-refresher",
             "detail":"La dulzura de las frutillas combinada con hibiscus, notas de açaí y extracto de café verde con hielo molido."
         },
         {
             "name": "Mango Dragonfruit",
-            "img": "./images/bebidas/heladas/mangodragonfruit.png",
+            "img": "/src/bebidas/heladas/mangodragonfruit.png",
             "id": "mango-dragonfruit",
             "detail":"Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
         },
         {
             "name": "Frutilla Açai Limonada",
-            "img": "./images/bebidas/heladas/frutillalimonada.png",
+            "img": "/src/bebidas/heladas/frutillalimonada.png",
             "id": "frutilla-acai-limonada",
             "detail":"Frutilla, limonada, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
         }
@@ -52,13 +52,13 @@
     [
         {
             "name": "Jugo de manzana",
-            "img": "./images/bebidas/heladas/jugodemanzana.png",
+            "img": "/src/bebidas/heladas/jugodemanzana.png",
             "id": "jugo-de-manzana",
             "detail":"Jugo de manzana 300ml"
         },
         {
             "name": "Jugo de naranja",
-            "img": "./images/bebidas/heladas/jugodenaranja.png",
+            "img": "/src/bebidas/heladas/jugodenaranja.png",
             "id": "jugo-de-naranja",
             "detail":"Jugo de naranja 300ml"
         }

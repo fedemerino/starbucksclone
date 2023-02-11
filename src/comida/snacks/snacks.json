@@ -2,19 +2,19 @@
     [
         {
             "name": "Porridge Avena Chocolate y Maní",
-            "img": "./images/comida/snacks/porridge.png",
+            "img": "/src/comida/snacks/porridge.png",
             "id":"porridge-avena-chocolate-y-mani",
             "detail":"Avena, maní y chocolate en una cremosa mezcla con tu leche o bebida vegetal favorita."
         },
         {
             "name": "Mix de Frutos Secos",
-            "img": "./images/comida/snacks/mixfrutossecos.png",
+            "img": "/src/comida/snacks/mixfrutossecos.png",
             "id":"mix-de-frutos-secos",
             "detail":"Mezcla de chips de banana, castañas, nueces, pasas de uva morenas y rubias."
         },
         {
             "name": "Barra de Cereal Almendras",
-            "img": "./images/comida/snacks/barracerealalmendras.png",
+            "img": "/src/comida/snacks/barracerealalmendras.png",
             "id":"barra-de-cereal-almendras",
             "detail":"Barra dulce de cereales con almendras."
         }
@@ -22,7 +22,7 @@
     [
         {
             "name": "Moneda de Chocolate",
-            "img": "./images/comida/snacks/monedadechoco.png",
+            "img": "/src/comida/snacks/monedadechoco.png",
             "id":"moneda-de-chocolate",
             "detail":"Moneda de chocolate con leche."
         }
@@ -30,25 +30,25 @@
     [
         {
             "name": "Biscotti con Castañas",
-            "img": "./images/comida/snacks/biscotti.png",
+            "img": "/src/comida/snacks/biscotti.png",
             "id":"biscotti-con-castanas",
             "detail":"Delicioso y crujiente pan italiano con castañas."
         },
         {
             "name": "Cookie Super Chocolate",
-            "img": "./images/comida/snacks/cookiesuperchocolate.png",
+            "img": "/src/comida/snacks/cookiesuperchocolate.png",
             "id":"cookie-super-chocolate",
             "detail":"Deliciosa cookie de chocolate con chips de chocolate."
         },
         {
             "name": "Cookie Chips y Pecan",
-            "img": "./images/comida/snacks/cookiechipsypecan.png",
+            "img": "/src/comida/snacks/cookiechipsypecan.png",
             "id":"cookie-chips-y-pecan",
             "detail":"Deliciosa cookie de vainilla con chips de chocolate y nueces pecan."
         },
         {
             "name": "Cookie Limón y Jengibre",
-            "img": "./images/comida/snacks/cookielimon.png",
+            "img": "/src/comida/snacks/cookielimon.png",
             "id":"cookie-limon-y-jengibre",
             "detail":"Deliciosa cookie sabor limón y jengibre."
         }

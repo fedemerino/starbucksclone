@@ -2,31 +2,31 @@
     [
         {
             "name": "Croissant Relleno con Crema de Avellanas",
-            "img": "./images/comida/bakery/croissantrellenocremadeavellanas.png",
+            "img": "/src/comida/bakery/croissantrellenocremadeavellanas.png",
             "id":"croissant-relleno-con-crema-de-avellanas",
             "detail":"Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas."
         },
         {
             "name": "Croissant",
-            "img": "./images/comida/bakery/croissant.png",
+            "img": "/src/comida/bakery/croissant.png",
             "id":"croissant",
             "detail":"Elaborado con masa de hojaldre crujiente y salada, nuestro Croissant se hornea especialmente para vos."
         },
         {
             "name": "Chocolate Croissant",
-            "img": "./images/comida/bakery/chocolatecroissant.png",
+            "img": "/src/comida/bakery/chocolatecroissant.png",
             "id":"chocolate-croissant",
             "detail":"Exquisita masa de hojaldre rellena de chocolate semiamargo y horneado especialmente para vos."
         },
         {
             "name": "Mezzaluna",
-            "img": "./images/comida/bakery/mezzaluna.png",
+            "img": "/src/comida/bakery/mezzaluna.png",
             "id":"mezzaluna",
             "detail":"La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa, de mayor tamaño y ¡recién horneada!"
         },
         {
             "name": "Mezzaluna rellena con jamón y queso",
-            "img": "./images/comida/bakery/mezzalunajyq.png",
+            "img": "/src/comida/bakery/mezzalunajyq.png",
             "id":"mezzaluna-rellena-con-jamon-y-queso",
             "detail":"Nuestra Mezzaluna recién horneada, rellena con queso tybo y jamón cocido."
         }
@@ -34,61 +34,61 @@
     [
         {
             "name": "Trenzado de Ricota y Cítricos",
-            "img": "./images/comida/bakery/trenzadoricota.png",
+            "img": "/src/comida/bakery/trenzadoricota.png",
             "id": "trenzado-de-ricota-y-citricos",
             "detail":"Una delicioso trenzado de masa hojaldrada relleno con ricota y cítricos."
         },
         {
             "name": "Croissant Relleno con Crema de Avellanas",
-            "img": "./images/comida/bakery/croissantrellenocremadeavellanas.png",
+            "img": "/src/comida/bakery/croissantrellenocremadeavellanas.png",
             "id": "croissant-relleno-con-crema-de-avellanas",
             "detail":"Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas."
         },
         {
             "name": "Croissant",
-            "img": "./images/comida/bakery/croissant.png",
+            "img": "/src/comida/bakery/croissant.png",
             "id": "croissant",
             "detail":"Elaborado con masa de hojaldre crujiente y salada, nuestro Croissant se hornea especialmente para vos."
         },
         {
             "name": "Mezzaluna rellena con jamón y queso",
-            "img": "./images/comida/bakery/mezzalunajyq.png",
+            "img": "/src/comida/bakery/mezzalunajyq.png",
             "id": "mezzaluna-rellena-con-jamon-y-queso",
             "detail":"Nuestra Mezzaluna recién horneada, rellena con queso tybo y jamón cocido."
         },
         {
             "name": "Double Choco Brownie",
-            "img": "./images/comida/bakery/doublechocobrownie.png",
+            "img": "/src/comida/bakery/doublechocobrownie.png",
             "id": "double-choco-brownie",
             "detail":"Brownie húmedo de chocolate."
         },
         {
             "name": "Roll de manzana",
-            "img": "./images/comida/bakery/rolldemanzana.png",
+            "img": "/src/comida/bakery/rolldemanzana.png",
             "id": "roll-de-manzana",
             "detail":"Anillo de suave masa horneada relleno con manzana."
         },
         {
             "name": "Roll de canela",
-            "img": "./images/comida/bakery/rolldecanela.png",
+            "img": "/src/comida/bakery/rolldecanela.png",
             "id": "roll-de-canela",
             "detail":"Anillo de suave masa horneada relleno con canela."
         },
         {
             "name": "Donut rellena de Dulce de leche",
-            "img": "./images/comida/bakery/donut.png",
+            "img": "/src/comida/bakery/donut.png",
             "id": "donut-rellena-de-dulce-de-leche",
             "detail":"Donut rellena con dulce de leche y glaseada."
         },
         {
             "name": "Chocolate Croissant",
-            "img": "./images/comida/bakery/chocolatecroissant.png",
+            "img": "/src/comida/bakery/chocolatecroissant.png",
             "id": "chocolate-croissant",
             "detail":"Exquisita masa de hojaldre rellena de chocolate semiamargo y horneado especialmente para vos."
         },
         {
             "name": "Mezzaluna",
-            "img": "./images/comida/bakery/mezzaluna.png",
+            "img": "/src/comida/bakery/mezzaluna.png",
             "id": "mezzaluna",
             "detail":"La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa, de mayor tamaño y ¡recién horneada!"
         }
@@ -96,43 +96,43 @@
     [
         {
             "name": "Cheese Avocado Scon",
-            "img": "./images/comida/bakery/cheeseavocadoscon.png",
+            "img": "/src/comida/bakery/cheeseavocadoscon.png",
             "id":"cheese-avocado-scon",
             "detail":"Nuestro clásico scon de queso con queso crema y avocado."
         },
         {
             "name": "Bagel Avocado Toast",
-            "img": "./images/comida/bakery/bagelavocadotoast.png",
+            "img": "/src/comida/bakery/bagelavocadotoast.png",
             "id":"bagel-avocado-toast",
             "detail":"Nuestro clásico Bagel Multicereal con queso crema y avocado."
         },
         {
             "name": "Avocado Toast",
-            "img": "./images/comida/bakery/avocadotoast.png",
+            "img": "/src/comida/bakery/avocadotoast.png",
             "id":"avocado-toast",
             "detail":"Tostada en pan artesanal con queso crema y avocado."
         },
         {
             "name": "Tostada Artesanal",
-            "img": "./images/comida/bakery/tostadaartesanal.png",
+            "img": "/src/comida/bakery/tostadaartesanal.png",
             "id":"tostada-artesanal",
             "detail":"Pan de campo tostado, con queso crema y mermelada de frutos rojos para untar."
         },
         {
             "name": "Scon 4 quesos",
-            "img": "./images/comida/bakery/scon4q.png",
+            "img": "/src/comida/bakery/scon4q.png",
             "id":"scon-4-quesos",
             "detail":"Queso pategrás, sardo, reggiano y holanda se combinan en una esponjosa masa tibia."
         },
         {
             "name": "Bagel Multicereal",
-            "img": "./images/comida/bakery/bagelmulticereal.png",
+            "img": "/src/comida/bakery/bagelmulticereal.png",
             "id":"bagel-multicereal",
             "detail":"Pan tostado con variedad de semillas y cereales, acompañado con queso crema y mermelada de frutos rojos para untar."
         },
         {
             "name": "Pan de Queso",
-            "img": "./images/comida/bakery/pandequeso.png",
+            "img": "/src/comida/bakery/pandequeso.png",
             "id":"pan-de-queso",
             "detail":"Nuestro tradicional pan de queso."
         }
@@ -140,25 +140,25 @@
     [
         {
             "name": "Muffin de Arándanos",
-            "img": "./images/comida/bakery/muffinarandano.png",
+            "img": "/src/comida/bakery/muffinarandano.png",
             "id":"muffin-de-arandanos",
             "detail":"Suave, dulce y esponjoso Muffin con arándanos y notas cítricas, con una cubierta de crumble."
         },
         {
             "name": "Muffin de dulce de leche",
-            "img": "./images/comida/bakery/muffinddl.png",
+            "img": "/src/comida/bakery/muffinddl.png",
             "id":"muffin-de-dulce-de-leche",
             "detail":"Exquisito muffin de vainilla con un corazón de dulce de leche."
         },
         {
             "name": "Muffin de Chocolate",
-            "img": "./images/comida/bakery/muffinchocolate.png",
+            "img": "/src/comida/bakery/muffinchocolate.png",
             "id":"muffin-de-chocolate",
             "detail":"Suave masa de chocolate con chips de chocolate en su interior."
         },
         {
             "name": "Muffin Choco Chips",
-            "img": "./images/comida/bakery/muffinchocochip.png",
+            "img": "/src/comida/bakery/muffinchocochip.png",
             "id":"muffin-choco-chips",
             "detail":"Esponjoso y húmedo muffin de vainilla con chips de chocolate."
         }
@@ -166,19 +166,19 @@
     [
         {
             "name": "Banana Loaf Cake",
-            "img": "./images/comida/bakery/bananloafcake.png",
+            "img": "/src/comida/bakery/bananloafcake.png",
             "id":"banana-loaf-cake",
             "detail":"Cake Húmedo de banana combinado con chispas de chocolate."
         },
         {
             "name": "Marble Loaf Cake",
-            "img": "./images/comida/bakery/marbleloafcake.png",
+            "img": "/src/comida/bakery/marbleloafcake.png",
             "id":"marble-loaf-cake",
             "detail":"Esponjoso cake que combina sabores de vainilla e intenso chocolate."
         },
         {
             "name": "Lemon Pound Cake",
-            "img": "./images/comida/bakery/lemonpoundcake.png",
+            "img": "/src/comida/bakery/lemonpoundcake.png",
             "id":"lemon-pound-cake",
             "detail":"Exquisito cake de limon, bañado con un glaseado dulce y cítrico."
         }
@@ -186,25 +186,25 @@
     [
         {
             "name": "Cheesecake Frutos Rojos",
-            "img": "./images/comida/bakery/cheesecakefrutosrojos.png",
+            "img": "/src/comida/bakery/cheesecakefrutosrojos.png",
             "id":"cheesecake-frutos-rojos",
             "detail":"Cheesecake con cobertura de salsa de frutos rojos."
         },
         {
             "name": "Cookies Cake",
-            "img": "./images/comida/bakery/cookiescake.png",
+            "img": "/src/comida/bakery/cookiescake.png",
             "id":"cookies-cake",
             "detail":"Torta de chocolate cubierta con crema de cookies de chocolate."
         },
         {
             "name": "Key Lime Pie",
-            "img": "./images/comida/bakery/keylimepie.png",
+            "img": "/src/comida/bakery/keylimepie.png",
             "id":"key-lime-pie",
             "detail":"Base de masa brisse, relleno de mousse de lima, decorada con crema y lima."
         },
         {
             "name": "Apple Crumble",
-            "img": "./images/comida/bakery/applecrumble.png",
+            "img": "/src/comida/bakery/applecrumble.png",
             "id":"apple-crumble",
             "detail":"Masa de vainilla con relleno de manzanas verdes, cubierto por una exquisita cobertura crocante."
         }

@@ -2,13 +2,13 @@
     [
         {
             "name": "Avellana Shaken Espresso con Avena Helado",
-            "img": "./images/bebidas/cafeshelados/avellanashaken.png",
+            "img": "/src/bebidas/cafeshelados/avellanashaken.png",
             "id":"avellana-shaken-espresso-con-avena-helado",
             "detail":"Café Espresso batido con jarabe de avellana y cubierto con bebida de avena."
         },
         {
             "name": "Chocolate Shaken Espresso con Avena Helado",
-            "img": "./images/bebidas/cafeshelados/chocolateshaken.png",
+            "img": "/src/bebidas/cafeshelados/chocolateshaken.png",
             "id":"chocolate-shaken-espresso-con-avena-helado",
             "detail":"Café Espresso batido con salsa mocha y cubierto con bebida de avena."
         }
@@ -16,13 +16,13 @@
     [
         {
             "name": "Skinny Caramel Macchiato Helado",
-            "img": "./images/bebidas/cafeshelados/caramel.png",
+            "img": "/src/bebidas/cafeshelados/caramel.png",
             "id":"skinny-caramel-macchiato-helado",
             "detail":"Hielo, vainilla sin azúcar y leche descremada \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
         },
         {
             "name": "Caramel Macchiato Helado",
-            "img": "./images/bebidas/cafeshelados/caramel.png",
+            "img": "/src/bebidas/cafeshelados/caramel.png",
             "id":"caramel-macchiato-helado",
             "detail":"Hielo, vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
         }
@@ -30,7 +30,7 @@
     [
         {
             "name": "Capuccinno Helado",
-            "img": "./images/bebidas/cafeshelados/cappuccinohelado.png",
+            "img": "/src/bebidas/cafeshelados/cappuccinohelado.png",
             "id":"cappuccino-helado",
             "detail":"El balance perfecto entre nuestro café espresso, hielo, leche y abundante espuma de leche."
         }
@@ -38,25 +38,25 @@
     [
         {
             "name": "Skinny Vainilla Latte Helado",
-            "img": "./images/bebidas/cafeshelados/skinnyvainillahelado.png",
+            "img": "/src/bebidas/cafeshelados/skinnyvainillahelado.png",
             "id":"skinny-vainilla-latte-helado",
             "detail":"Delicioso café espresso con leche descremada, hielo y toques de vainilla sin azúcar."
         },
         {
             "name": "Latte Helado",
-            "img": "./images/bebidas/cafeshelados/lattehelado.png",
+            "img": "/src/bebidas/cafeshelados/lattehelado.png",
             "id":"latte-helado",
             "detail":"Deliciosa combinación de café espresso con hielo y leche."
         },
         {
             "name": "Vainilla Latte Helado",
-            "img": "./images/bebidas/cafeshelados/vainillahelado.png",
+            "img": "/src/bebidas/cafeshelados/vainillahelado.png",
             "id":"vainilla-latte-helado",
             "detail":"Delicioso café espresso con leche, hielo y dulces toques de vainilla."
         },
         {
             "name": "Dulce de leche Latte Helado",
-            "img": "./images/bebidas/cafeshelados/ddlhelado.png",
+            "img": "/src/bebidas/cafeshelados/ddlhelado.png",
             "id":"dulce-de-leche-latte-helado",
             "detail":"Café espresso con delicioso dulce de leche, hielo y leche con un remolino de crema batida y salsa de caramelo."
         }
@@ -64,17 +64,17 @@
     [
         {
             "name": "Cold Brew Cold Foam",
-            "img": "./images/bebidas/cafeshelados/coldbrewfoam.png",
+            "img": "/src/bebidas/cafeshelados/coldbrewfoam.png",
             "id":"cold-brew-cold-foam",
             "detail":"Bebida helada a base de granos de café colombianos infusionados por 20 horas coronada con una cremosa espuma de leche fría."
         }, {
             "name": "Sweet Vainilla Cold Brew",
-            "img": "./images/bebidas/cafeshelados/sweetvainilla.png",
+            "img": "/src/bebidas/cafeshelados/sweetvainilla.png",
             "id":"sweet-vainilla-cold-brew",
             "detail":"Bebida helada a base de granos de café colombianos infusionados por 20 horas, endulzada con vainilla y finalizada con crema de leche."
         }, {
             "name": "Cold Brew",
-            "img": "./images/bebidas/cafeshelados/coldbrew.png",
+            "img": "/src/bebidas/cafeshelados/coldbrew.png",
             "id":"cold-brew",
             "detail":"Bebida helada a base de granos de café colombianos infusionados por 20 horas."
         }
@@ -82,7 +82,7 @@
     [
         {
             "name": "Americano Helado",
-            "img": "./images/bebidas/cafeshelados/americanohelado.png",
+            "img": "/src/bebidas/cafeshelados/americanohelado.png",
             "id":"americano-helado",
             "detail":"Delicioso café espresso combinado con agua y hielo, al mejor estilo americano."
         }
@@ -90,13 +90,13 @@
     [
         {
             "name": "Mocha Blanco Helado",
-            "img": "./images/bebidas/cafeshelados/mochablancohelado.png",
+            "img": "/src/bebidas/cafeshelados/mochablancohelado.png",
             "id":"mocha-blanco-helado",
             "detail":"Irresistible combinación de chocolate blanco, shots de espresso, hielo y leche, coronado con crema batida."
         },
         {
             "name": "Mocha Helado",
-            "img": "./images/bebidas/cafeshelados/mochahelado.png",
+            "img": "/src/bebidas/cafeshelados/mochahelado.png",
             "id":"mocha-helado",
             "detail":"Intenso chocolate con café espresso, hielo y leche, coronado con crema batida."
         }
@@ -104,13 +104,13 @@
     [
         {
             "name": "Café del día con Leche Helado",
-            "img": "./images/bebidas/cafeshelados/cafedeldiaconlechehelado.png",
+            "img": "/src/bebidas/cafeshelados/cafedeldiaconlechehelado.png",
             "id":"cafe-del-dia-con-leche-helado",
             "detail":"Nuestros exquisitos y selectos granos de café preparados en método filtrado y agregado de hielo para una infusión refrescante."
         },
         {
             "name": "Café del día Helado",
-            "img": "./images/bebidas/cafeshelados/cafedeldiahelado.png",
+            "img": "/src/bebidas/cafeshelados/cafedeldiahelado.png",
             "id":"cafe-del-dia-helado",
             "detail":"Nuestros exquisitos y selectos granos de café preparados en método filtrado."
         }
