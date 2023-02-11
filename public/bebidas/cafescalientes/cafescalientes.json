@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "name": "Skinny Vainilla Late",
+            "img": "/src/bebidas/cafescalientes/skinny.png",
+            "id": "skinny-vainilla-late",
+            "detail" : "Café espresso con leche descremada al vapor y toques de vainilla sin azúcar."
+        },
+        {
+            "name": "Vainilla Latte",
+            "img": "/src/bebidas/cafescalientes/skinny.png",
+            "id": "vainilla-latte",
+            "detail" : "Café espresso con leche al vapor y toques de vainilla."
+        },
+        {
+            "name": "Latte",
+            "img": "/src/bebidas/cafescalientes/latte.png",
+            "id": "latte",
+            "detail" : "Café espresso con leche vaporizada."
+        },
+        {
+            "name": "Dulce de leche Latte",
+            "img": "/src/bebidas/cafescalientes/dulce.png",
+            "id": "dulce-de-leche-latte",
+            "detail" : "Café espresso con dulce de leche, leche al vapor con crema batida y salsa de caramelo."
+        }
+    ],
+    [
+        {
+            "name": "Cappuccino",
+            "img": "/src/bebidas/cafescalientes/cappuccino.png",
+            "id": "cappuccino",
+            "detail" : "Café espresso, leche vaporizada y abundante espuma de leche."
+        }
+    ],
+    [
+        {
+            "name": "Flat White",
+            "img": "/src/bebidas/cafescalientes/flatwhite.png",
+            "id": "flat-white",
+            "detail" : "Shots de café ristretto con leche vaporizada que finaliza con un punto dibujado en la superficie."
+        }
+    ],
+    [
+        {
+            "name": "Americano",
+            "img": "/src/bebidas/cafescalientes/americano.png",
+            "id": "americano",
+            "detail" : "Café espresso combinado con agua al mejor estilo americano."
+        }
+    ],
+    [
+        {
+            "name": "Latte Macchiato",
+            "img": "/src/bebidas/cafescalientes/lattemacchiato.png",
+            "id": "latte-macchiato",
+            "detail" : "Leche vaporizada con shots de café espresso que finaliza con un punto dibujado en la superficie."
+        },
+        {
+            "name": "Skinny Caramel Macchiato",
+            "img": "/src/bebidas/cafescalientes/skinnycaramel.png",
+            "id": "skinny-caramel-macchiato",
+            "detail" : "Vainilla sin azucar y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo"
+        },
+        {
+            "name": "Caramel Macchiato",
+            "img": "/src/bebidas/cafescalientes/skinnycaramel.png",
+            "id": "caramel-macchiato",
+            "detail" : "Vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
+        }
+    ],
+    [
+        {
+            "name": "Mocha Blanco",
+            "img": "/src/bebidas/cafescalientes/mochablanco.png",
+            "id": "mocha-blanco",
+            "detail" : "Chocolate blanco, shots de Espresso y leche vaporizada, con crema batida."
+        },
+        {
+            "name": "Mocha",
+            "img": "/src/bebidas/cafescalientes/mocha.png",
+            "id": "mocha",
+            "detail" : "Chocolate con café espresso y leche al vapor, con crema batida."
+        }
+    ],
+    [
+        {
+            "name": "Café del día con leche",
+            "img": "/src/bebidas/cafescalientes/cafedeldiaconleche.png",
+            "id": "cafe-del-dia-con-leche",
+            "detail" : "Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado, con una capa de leche vaporizada."
+        },
+        {
+            "name": "Café del día",
+            "img": "/src/bebidas/cafescalientes/cafedeldia.png",
+            "id": "cafe-del-dia",
+            "detail" : "Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado."
+        }
+    ]
+]

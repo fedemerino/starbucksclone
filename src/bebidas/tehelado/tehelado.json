@@ -2,7 +2,7 @@
     [
         {
             "name": "Shaken Lemonade Hibiscus",
-            "img": "/src/bebidas/tehelado/shakenlemonade.png",
+            "img": "/bebidas/tehelado/shakenlemonade.png",
             "id":"shaken-lemonade-hibiscus",
             "detail":"Nuestro té de hibiscus combinado con limón y mezclado con hielo."
         }
@@ -10,7 +10,7 @@
     [
         {
             "name": "Shaken Lemonade Green Tea",
-            "img": "/src/bebidas/tehelado/shakenlemonadegreentea.png",
+            "img": "/bebidas/tehelado/shakenlemonadegreentea.png",
             "id":"shaken-lemonade-green-tea",
             "detail":"Nuestro té verde combinado con limón y mezclado con hielo."
         }

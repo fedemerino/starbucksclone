@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "name": "Té Hibiscus",
+            "img": "/src/encasa/te/hibiscus.png",
+            "id":"te-hibiscus",
+            "detail":"Las flores de hibisco impregnan esta infusión de una ligera acidez y un extraordinario color rojizo. Brillantes sabores tropicales de papaya y mango con hierba limón cítrica y una pizca de canela. Contiene 12 unidades de 3,4 g."
+        },
+        {
+            "name": "Té Youthberry",
+            "img": "/src/encasa/te/youthberry.png",
+            "id":"te-youthberry",
+            "detail":"Una mezcla de té blanco cítrico con toques brillantes de sabor tropical. Con mango, naranja, hibisco y pétalos de rosa. Hay un toque de paraíso en cada sorbo de esta fantástica mezcla. Contiene 12 unidades de 3,4 g."
+        }
+    ],
+    [
+        {
+            "name": "Té Chai",
+            "img": "/src/encasa/te/chai.png",
+            "id":"te-chai",
+            "detail":"Deliciosa combinación de té y especias, al estilo de los habitantes del Himalaya. Una intensa infusión de canela, jengibre, cardamomo, pimienta negra y anís estrellado. Contiene 12 unidades de 3,4 g."
+        }
+    ],
+    [
+        {
+            "name": "Té Earl Grey",
+            "img": "/src/encasa/te/earlgrey.png",
+            "id":"te-earl-grey",
+            "detail":"Una brillante mezcla de tés negros de Sri Lanka con una aromática esencia de bergamota y lavanda. Contiene 12 unidades de 3,4 g."
+        },
+        {
+            "name": "Té English Breakfast",
+            "img": "/src/encasa/te/englishbreakfast.png",
+            "id":"te-english-breakfast",
+            "detail":"Mezcla de tés negros: Assam de la India, Ceilán de Sri Lanka y té negro de China. Los tés de Assam añaden toques profundos de malta y té negro y un rico aroma a caramelo. Los tés de Ceilán aportan un sabor brillante y completo, mientras que los de China tienen un sutil toque como recién recién horneado, lo cual hace del English Breakfast una opción única. Contiene 12 unidades de 3,4 g."
+        }
+    ],
+    [
+        {
+            "name": "Té Mint Citrus",
+            "img": "/src/encasa/te/mintcitrus.png",
+            "id":"te-mint-citrus",
+            "detail":"La base de hierbabuena de este té se complementa con notas de menta fresca y toques de verbena dulce y especiada. Contiene 12 unidades de 3,4 g."
+        }
+    ]
+]
