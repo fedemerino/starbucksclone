@@ -1,7 +1,7 @@
 [
     {
         "name":"Cafés calientes",
-        "img":"/src/bebidas/cafescalientes.png",
+        "img":"/public/static/bebidas/cafescalientes.png",
         "id":"cafes-calientes"
     },
     {
