@@ -128,5 +128,15 @@
         display: block;
         position: absolute;
     }
+    a.navCafe:hover:before {
+      box-sizing: border-box;
+        bottom: 0px;
+        background: #00754a;
+        content: "CAFÉ";
+        color: transparent;
+        height: 5px;
+        display: block;
+        position: absolute;
+    }
   
 }
