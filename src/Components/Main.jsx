@@ -4,6 +4,7 @@ import Home from './Home'
 import Menu from './Menu'
 import FoodContainer from './FoodContainer'
 import ProductContainer from './ProductContainer'
+import Cafe from './Cafe'
 const Main = () => {
   return (
         <Routes>
@@ -13,6 +14,7 @@ const Main = () => {
           <Route path='/menu/comida/:id' element={<FoodContainer />}></Route>
           <Route path='/menu/en-casa/:id' element={<FoodContainer />}></Route>
           <Route path='/producto/:id' element={<ProductContainer />}></Route>
+          <Route path='/articulo/lets-talk-coffee' element={<Cafe />}></Route>
         </Routes>
   )
 }

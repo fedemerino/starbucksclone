@@ -1,5 +1,5 @@
 import React from 'react'
-
+import CustomButton from './CustomButton'
 const HomeSectionContent = ({ styles, contentText, contentTitle, contentButton }) => {
     return (
         <>
@@ -21,12 +21,7 @@ const HomeSectionContent = ({ styles, contentText, contentTitle, contentButton }
                     {contentText}
                 </p>
             </div>
-            <div className='contentButton' style={{
-                'color': styles.color,
-                'border': '1px solid ' + styles.color,
-            }}>
-                {contentButton}
-            </div>
+            <CustomButton contentButton={contentButton} styles={styles} />
         </>
     )
 }

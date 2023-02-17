@@ -14,7 +14,7 @@ const Navbar = () => {
               MENÚ
             </Link>
           </li>
-          <Link to={"/#"} className={"navCafe"}>
+          <Link to={"/articulo/lets-talk-coffee"} className={"navCafe"}>
             CAFÉ
           </Link>
           <li>

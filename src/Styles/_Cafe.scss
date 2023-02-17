@@ -1,0 +1,56 @@
+.mainCafe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    img{
+        padding-bottom: 2rem;
+    }
+}
+
+.cafeTitleContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    background-color: #1e3932;
+    width: 100vw;
+    height: 25.5vh;
+    margin-bottom: 2rem;
+}
+
+.cafeTitle {
+    width: 41.25rem;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 3.1rem;
+    margin-left: -1rem;
+    margin-top: 2.5rem;
+}
+
+.cafeSection {
+    p {
+        padding-bottom: 2rem;
+    }
+
+    width: 41.25rem;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    margin-left: -1rem;
+}
+
+.cafeSectionText {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 0;
+    text-align: start;
+}
+
+.cafeSectionTitle {
+    color: rgba(0, 0, 0, .87);
+    font-weight: 700;
+}
