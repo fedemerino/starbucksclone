@@ -1,28 +1,31 @@
-import React from 'react'
-import HomeSection from './HomeSection'
+import React from "react";
+import HomeSection from "./HomeSection";
 const Home = () => {
   return (
-    <div className='homeContainer'>
+    <div className="homeContainer">
       <HomeSection
         w={"87.5rem"}
         h={"25.5rem"}
         bg={"#d4e9e2"}
-        imgPos={'left'}
-        img={'./pistacho.png'}
-        alt={'pistacho'}
-        className={'sectionImg'}
+        imgPos={"left"}
+        img={"./pistacho.png"}
+        alt={"pistacho"}
+        className={"sectionImg"}
         content={true}
         contentTitle={"¡Hay pistacho para todos!"}
         contentText={"Conocé todas las novedades del verano"}
-        contentButton={"Más información"}
+        contentButton={"Más Información"}
         styles={{
-          'color': '#00754a',
-          'fontSize': '3.125rem',
-          'fontWeight': '600',
-          'maxWidth': '30rem',
-          'textAlign': 'center'
+          color: "#00754a",
+          fontSize: "3.125rem",
+          fontWeight: "600",
+          maxWidth: "30rem",
+          textAlign: "center",
+          buttonFontSize: "1rem ",
+          paddingBottom: ".3rem",
+          textFontSize:"1.1875rem",
+          textMarginTop:"1rem"
         }}
-
       />
       {/* <HomeSection
         w={"87.5rem"}
@@ -40,7 +43,7 @@ const Home = () => {
         }}
       /> */}
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

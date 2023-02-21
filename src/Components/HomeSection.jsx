@@ -1,7 +1,7 @@
 import React from 'react'
 import HomeSectionContent from './HomeSectionContent'
 
-const HomeSection = ({ w, h, bg, imgPos, img, alt, className, content, contentTitle, contentText,contentButton, styles }) => {
+const HomeSection = ({ w, h, bg, imgPos, img, alt, className, content, contentTitle, contentText,contentButton, styles, link }) => {
   return (
     <div className='home'
       style={{
@@ -11,11 +11,11 @@ const HomeSection = ({ w, h, bg, imgPos, img, alt, className, content, contentTi
       }}>
       <div className="homeSectionLeft">
         {imgPos == 'left' ? <img src={img} alt={alt} className={className} /> :
-          content == true ? <HomeSectionContent styles={styles} contentTitle={contentTitle} contentText={contentText} contentButton={contentButton} /> : null}
+          content == true ? <HomeSectionContent styles={styles} contentTitle={contentTitle} contentText={contentText} contentButton={contentButton} link={link} /> : null}
       </div>
       <div className="homeSectionRight">
         {imgPos == 'right' ? <img src={img} alt={alt} className={className} /> :
-          content == true ? <HomeSectionContent styles={styles} contentTitle={contentTitle} contentText={contentText} contentButton={contentButton}/> : null}
+          content == true ? <HomeSectionContent styles={styles} contentTitle={contentTitle} contentText={contentText} contentButton={contentButton} link={link}/> : null}
       </div>
     </div>
   )

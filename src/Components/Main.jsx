@@ -5,6 +5,7 @@ import Menu from './Menu'
 import FoodContainer from './FoodContainer'
 import ProductContainer from './ProductContainer'
 import Cafe from './Cafe'
+import ExperienciaStarbucks from './ExperienciaStarbucks'
 const Main = () => {
   return (
         <Routes>
@@ -15,6 +16,7 @@ const Main = () => {
           <Route path='/menu/en-casa/:id' element={<FoodContainer />}></Route>
           <Route path='/producto/:id' element={<ProductContainer />}></Route>
           <Route path='/articulo/lets-talk-coffee' element={<Cafe />}></Route>
+          <Route path='/seccion/experiencia-starbucks' element={<ExperienciaStarbucks/>}></Route>
         </Routes>
   )
 }

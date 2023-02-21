@@ -1,6 +1,6 @@
 import React from 'react'
 import CustomButton from './CustomButton'
-const HomeSectionContent = ({ styles, contentText, contentTitle, contentButton }) => {
+const HomeSectionContent = ({ styles, contentText, contentTitle, contentButton, link }) => {
     return (
         <>
             <div className="contentTitle">
@@ -16,12 +16,16 @@ const HomeSectionContent = ({ styles, contentText, contentTitle, contentButton }
             </div>
             <div className="contentText">
                 <p style={{
-                    'color': styles.color,
+                    color: styles.color,
+                    fontSize: styles.textFontSize,
+                    fontWeight: styles.textFontWeight,
+                    marginTop: styles.textMarginTop
+                    
                 }}>
                     {contentText}
                 </p>
             </div>
-            <CustomButton contentButton={contentButton} styles={styles} />
+            {contentButton?<CustomButton contentButton={contentButton} styles={styles} link={link} />:null}
         </>
     )
 }

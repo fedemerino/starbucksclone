@@ -1,0 +1,221 @@
+@media screen and (max-width: 480px){
+  .media{
+    margin-left: 1rem;
+    justify-content: start;
+  }
+  .footerBottom{
+    align-items: flex-start;
+  }
+  .terms{
+    display: block;
+    p{
+      border: none;
+      color: black;
+    }
+  }
+  .rights{
+    max-width: 97vw;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  p {
+    display: block !important;
+  }
+  .footerContainer {
+    flex-direction: column;
+  }
+  .footerTop {
+    justify-content: start;
+  }
+  .aboutUs,
+  .socialImpact,
+  .support,
+  .experience {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 20rem;
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+    p {
+      font-size: 1rem !important;
+    }
+    .footerTitle {
+      img {
+        display: block;
+      }
+      width: 90vw;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+  .dataFiscal{
+    margin-left: 1rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .navbarRight {
+    a {
+      display: none;
+    }
+  }
+  .sandwichButton {
+    display: inline;
+    img {
+      width: 20px;
+      height: 15px;
+    }
+  }
+  .navbarLeft > ul,
+  p {
+    display: none;
+  }
+  .localizarTienda > img {
+    display: none;
+  }
+  .navbarContainer {
+    height: 4.375rem;
+  }
+  .homeContainer {
+    display: block;
+    height: 1;
+  }
+  .home {
+    flex-direction: column;
+    min-height: 50vh;
+    height: calc(100vw + 15vh) !important;
+    width: inherit !important;
+  }
+  .homeSectionLeft {
+    height: calc((100vw + 15vh)) !important;
+  }
+  .homeSectionRight {
+    padding-top: 2rem;
+    height: 25rem;
+    justify-content: flex-start;
+    p {
+      display: block;
+    }
+  }
+  .contentTitle {
+    p {
+      max-width: 50rem !important;
+      font-size: calc(1.2125rem + 2.55vw) !important;
+    }
+  }
+  .navbarLeft > a {
+    margin-left: 1rem;
+    img {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  .contentText {
+    p {
+      margin: 0 !important;
+    }
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 768px) {
+  .navbarRight {
+    a {
+      display: none;
+    }
+  }
+  .sandwichButton {
+    display: inline;
+    img {
+      width: 20px;
+      height: 15px;
+    }
+  }
+  .navbarLeft > ul,
+  p {
+    display: none;
+  }
+  .localizarTienda > img {
+    display: none;
+  }
+  .navbarContainer {
+    height: 4.375rem;
+  }
+  .homeContainer {
+    display: block;
+    height: 1;
+  }
+  .home {
+    flex-direction: column;
+    height: 100vw !important;
+    width: 100vw !important;
+  }
+  .homeSectionLeft {
+    height: 50rem;
+  }
+  .homeSectionRight {
+    padding-top: 2rem;
+    height: 25rem;
+    justify-content: flex-start;
+    p {
+      display: block;
+    }
+  }
+  .contentTitle {
+    p {
+      max-width: 50rem !important;
+      font-size: calc(1.2125rem + 2.55vw) !important;
+    }
+  }
+  .navbarLeft > a {
+    margin-left: 1rem;
+    img {
+      width: 40px;
+      height: 40px;
+    }
+  }
+}
+
+@media screen and (max-width: 876px) {
+  .contentText {
+    margin: 0 !important;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1072px) {
+  .contentTitle > p {
+    font-size: calc(1.2125rem + 2.55vw) !important;
+  }
+  .contentTitle {
+    max-width: 20rem;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .navbar {
+    width: 100vw;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1280px) {
+  .home {
+    width: 100vw !important;
+    height: 30vw !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .contentTitle {
+    max-width: 75vw;
+    p {
+      font-size: 8vw !important;
+    }
+  }
+  .contentText {
+    max-width: 90vw;
+    p {
+      font-size: 5vw !important;
+    }
+  }
+  .contentButton {
+    font-size: 5vw !important;
+  }
+}
