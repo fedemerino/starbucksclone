@@ -1,24 +1,67 @@
-@media screen and (max-width: 480px){
-  .media{
+@media screen and (max-width: 600px) {
+  .experienciaStarbucksTitle {
+    max-width: 80vw;
+  }
+  .experienciaStarbucksTitleContainer {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cafeSectionText {
+    font-size: calc(0.3rem + 2.25vw) !important;
+    line-height: 25px;
+  }
+  .media {
     margin-left: 1rem;
     justify-content: start;
   }
-  .footerBottom{
+  .footerBottom {
     align-items: flex-start;
   }
-  .terms{
+  .terms {
     display: block;
-    p{
+    p {
       border: none;
       color: black;
     }
   }
-  .rights{
+  .rights {
     max-width: 97vw;
+  }
+  .text {
+    font-size: large;
   }
 }
 
 @media screen and (max-width: 1024px) {
+  .experienciaStarbucksSectionTitle {
+    max-width: 95vw;
+    font-size: calc(1.0875rem + 1.05vw);
+  }
+  .cafeTitle {
+    font-size: calc(1.75rem + 2.25vw) !important;
+    max-width: 60vw;
+    margin-left: -5rem;
+  }
+  .cafeSection {
+    margin-left: 1vw;
+    margin-right: 1vw;
+    max-width: 90vw;
+    p {
+      padding-bottom: 1rem;
+    }
+  }
+  .cafeTitleContainer {
+    height: 8.5rem;
+  }
+  .cafeTitle {
+    font-size: 2.8rem;
+  }
   p {
     display: block !important;
   }
@@ -51,11 +94,17 @@
       justify-content: space-between;
     }
   }
-  .dataFiscal{
+  .dataFiscal {
     margin-left: 1rem;
   }
 }
 @media screen and (max-width: 500px) {
+  .col {
+    a {
+      transform: scale(0.8);
+    }
+  }
+
   .navbarRight {
     a {
       display: none;
@@ -182,6 +231,64 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .productContainer {
+    height: 20rem;
+    flex-direction: column;
+  }
+  .productName {
+    padding-top: 2.5rem;
+    font-size: 1.6rem;
+  }
+  .productDescription {
+    max-width: 90vw;
+  }
+  .cafeSectionTitle {
+    font-size: calc(0.8rem + 2.25vw) !important;
+  }
+  .cafeSectionText {
+    font-size: calc(0.2rem + 2.25vw) !important;
+    line-height: 25px;
+  }
+  .experienciaStarbucksContainer {
+    :nth-child(3) {
+      flex-direction: column-reverse !important;
+      .homeSectionLeft {
+        height: 50vh;
+      }
+      .homeSectionRight {
+        height: inherit !important;
+      }
+    }
+    .homeSectionRight {
+      height: 50vw;
+    }
+    .contentTitle {
+      p {
+        font-size: calc(1.0875rem + 1.05vw) !important;
+      }
+    }
+    .contentText{
+      width: 100vw;
+      p{
+        line-height: 30px;
+        text-align: center;
+        
+      }
+    }
+  }
+  .experienciaStarbucksSectionTitle {
+    max-width: 80vw;
+  }
+  .homeSectionRight {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: inherit;
+    padding-top: 0;
+  }
+}
+
 @media screen and (min-width: 769px) and (max-width: 1072px) {
   .contentTitle > p {
     font-size: calc(1.2125rem + 2.55vw) !important;
@@ -194,6 +301,12 @@
 @media screen and (max-width: 1280px) {
   .navbar {
     width: 100vw;
+  }
+  .menuTop {
+    width: 100vw;
+  }
+  .menuContainer {
+    margin: 2.5rem 0 0 0;
   }
 }
 @media screen and (min-width: 769px) and (max-width: 1280px) {
