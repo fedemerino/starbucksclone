@@ -7,7 +7,7 @@ import {context} from './CustomProvider'
 const Menu = () => {
     const {buttonState} = useContext(context)
     return (
-        <div className='menuContainer' style={{margin: buttonState&&0,
+        <div className='menuContainer' style={{margin: buttonState&&'0 1rem 0 1rem',
         padding:buttonState&&'6.75rem 0 0 0'}}>
             <div className='menuTop'>
                 <p className="enjoy">¡Disfrútalos!</p>

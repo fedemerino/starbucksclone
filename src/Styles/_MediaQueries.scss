@@ -247,7 +247,7 @@
     font-size: calc(0.8rem + 2.25vw) !important;
   }
   .cafeSectionText {
-    font-size: calc(0.2rem + 2.25vw) !important;
+    font-size: calc(0.33rem + 2.25vw) !important;
     line-height: 25px;
   }
   .experienciaStarbucksContainer {
@@ -260,6 +260,11 @@
         height: inherit !important;
       }
     }
+    :nth-child(5) {
+      .homeSectionLeft {
+        height: 45vh !important;
+      }
+    }
     .homeSectionRight {
       height: 50vh;
     }
@@ -269,9 +274,9 @@
         font-size: calc(1.0875rem + 1.05vw) !important;
       }
     }
-    .contentText{
+    .contentText {
       width: 100vw;
-      p{
+      p {
         line-height: 30px;
         text-align: center;
         font-size: 1rem !important;
@@ -330,12 +335,30 @@
     }
   }
   .contentButton {
-    font-size: 5vw !important;
+    font-size: 1rem !important;
   }
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width: 320px) {
   .text {
     font-size: large;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .experienciaStarbucksContainer {
+    .homeSectionLeft,
+    .homeSectionRight {
+      .contentTitle{
+        margin: 0.1rem;
+      }
+      .contentTitle p{
+        font-size: 1rem !important;
+      }
+      .contentText p{
+        font-size: 0.8rem !important;
+        line-height: 20px;
+      }
+    }
   }
 }
