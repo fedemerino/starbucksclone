@@ -20,7 +20,7 @@ const Navbar = () => {
     >
       {buttonState ? (
         <div className="buttonNavbarContainer">
-          <div className="buttonNavbarOpacity"></div>
+          <div className="buttonNavbarOpacity" onClick={handleButton}></div>
           <div className="buttonNavbar">
             <div className="buttonNavbarMenu">
               <ul className="buttonNavbarUL">
