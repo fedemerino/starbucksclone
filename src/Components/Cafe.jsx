@@ -1,12 +1,13 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import CafeSectionImg from './CafeSectionImg'
 import CafeSectionText from './CafeSectionText'
 import CafeSectionTitle from './CafeSectionTitle'
 import CustomButton from './CustomButton'
-
+import {context} from './CustomProvider'
 const Cafe = () => {
+    const {buttonState} = useContext(context)
     return (
-        <div className='mainCafe'>
+        <div className='mainCafe' style={{padding: buttonState&&'4.375rem 0 0 0'}}>
             <div className='cafeTitleContainer'>
                 <p className='cafeTitle'>Nuestro café</p>
             </div>

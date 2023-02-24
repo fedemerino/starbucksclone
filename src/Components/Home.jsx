@@ -1,8 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import HomeSection from "./HomeSection";
+import {context} from './CustomProvider'
 const Home = () => {
+  const {buttonState} = useContext(context)
   return (
-    <div className="homeContainer">
+    <div className="homeContainer" style={{padding: buttonState&&'4.375rem 0 0 0'}}>
       <HomeSection
         w={"87.5rem"}
         h={"25.5rem"}

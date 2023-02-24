@@ -1,8 +1,10 @@
-import React from "react";
+import React,{useContext} from "react";
 import HomeSection from "./HomeSection";
+import {context} from './CustomProvider'
 const ExperienciaStarbucks = () => {
+  const {buttonState} = useContext(context)
   return (
-    <div className="experienciaStarbucksContainer">
+    <div className="experienciaStarbucksContainer" style={{padding:buttonState&&'4.375rem 0 0 0'}}>
       <div className="homeContainer">
         <div className="experienciaStarbucksTitleContainer">
           <p className="experienciaStarbucksTitle">Experiencia Starbucks</p>

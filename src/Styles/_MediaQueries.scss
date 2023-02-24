@@ -34,7 +34,7 @@
     max-width: 97vw;
   }
   .text {
-    font-size: large;
+    font-size: x-large;
   }
 }
 
@@ -261,9 +261,10 @@
       }
     }
     .homeSectionRight {
-      height: 50vw;
+      height: 50vh;
     }
     .contentTitle {
+      margin-bottom: 1rem;
       p {
         font-size: calc(1.0875rem + 1.05vw) !important;
       }
@@ -273,7 +274,7 @@
       p{
         line-height: 30px;
         text-align: center;
-        
+        font-size: 1rem !important;
       }
     }
   }
@@ -306,7 +307,7 @@
     width: 100vw;
   }
   .menuContainer {
-    margin: 2.5rem 0 0 0;
+    margin: 2.5rem 1rem 0 1rem;
   }
 }
 @media screen and (min-width: 769px) and (max-width: 1280px) {
@@ -330,5 +331,11 @@
   }
   .contentButton {
     font-size: 5vw !important;
+  }
+}
+
+@media screen and (max-width:320px){
+  .text {
+    font-size: large;
   }
 }
