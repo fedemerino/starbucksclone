@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 const Footer = () => {
-  const [sobreNosotrosButton, setSobreNosotrosButton] = useState(true);
-  const [impactoSocialButton, setImpactoSocialButton] = useState(true);
-  const [atencionButton, setAtencionButton] = useState(true);
-  const [experienciaButton, setExperienciaButton] = useState(true);
+  const [sobreNosotrosButton, setSobreNosotrosButton] = useState(false);
+  const [impactoSocialButton, setImpactoSocialButton] = useState(false);
+  const [atencionButton, setAtencionButton] = useState(false);
+  const [experienciaButton, setExperienciaButton] = useState(false);
 
   const handleButton = (state, setState) => {
     setState(!state);
